@@ -1,0 +1,19 @@
+Started by user [8mha:////4JZ00hoH0aYdaAukS8leisW/GMU2N+yguXH1+T0tP5UwAAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyOEgYu/dLi1CL94szcTABr0ZgVvwAAAA==[0mSimi S M
+Running as SYSTEM
+Building in workspace C:\Users\ustjavab204\eclipse-workspace-java_developer\Week2Assignments\src\patterns
+[patterns] $ cmd /c call C:\Windows\TEMP\jenkins6986086291107017346.bat
+
+C:\Users\ustjavab204\eclipse-workspace-java_developer\Week2Assignments\src\patterns>javac -d . PyramidStarPattern.java 
+
+C:\Users\ustjavab204\eclipse-workspace-java_developer\Week2Assignments\src\patterns>java patterns.PyramidStarPattern 
+Enter n :
+Exception in thread "main" java.util.NoSuchElementException
+	at java.util.Scanner.throwFor(Scanner.java:862)
+	at java.util.Scanner.next(Scanner.java:1485)
+	at java.util.Scanner.nextInt(Scanner.java:2117)
+	at java.util.Scanner.nextInt(Scanner.java:2076)
+	at patterns.PyramidStarPattern.main(PyramidStarPattern.java:11)
+
+C:\Users\ustjavab204\eclipse-workspace-java_developer\Week2Assignments\src\patterns>exit 1 
+Build step 'Execute Windows batch command' marked build as failure
+Finished: FAILURE

@@ -1,0 +1,38 @@
+Started by user [8mha:////4JZ00hoH0aYdaAukS8leisW/GMU2N+yguXH1+T0tP5UwAAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyOEgYu/dLi1CL94szcTABr0ZgVvwAAAA==[0mSimi S M
+Running as SYSTEM
+Building in workspace C:\Program Files (x86)\Jenkins\workspace\GitProject
+Unable to auto-install JDK until the license is accepted.
+[GitProject] $ cmd /c call C:\Windows\TEMP\jenkins2187884087409487825.bat
+
+C:\Program Files (x86)\Jenkins\workspace\GitProject>mkdir GitProject 
+A subdirectory or file GitProject already exists.
+
+C:\Program Files (x86)\Jenkins\workspace\GitProject>cd GitProject 
+
+C:\Program Files (x86)\Jenkins\workspace\GitProject\GitProject>git init 
+Reinitialized existing Git repository in C:/Program Files (x86)/Jenkins/workspace/GitProject/GitProject/.git/
+
+C:\Program Files (x86)\Jenkins\workspace\GitProject\GitProject>echo  "Git integration using Jenkins" 1>Demo.txt 
+
+C:\Program Files (x86)\Jenkins\workspace\GitProject\GitProject>git status 
+On branch master
+nothing to commit, working tree clean
+
+C:\Program Files (x86)\Jenkins\workspace\GitProject\GitProject>git add . 
+
+C:\Program Files (x86)\Jenkins\workspace\GitProject\GitProject>git commit -m"first commit" 
+On branch master
+nothing to commit, working tree clean
+
+C:\Program Files (x86)\Jenkins\workspace\GitProject\GitProject>git remote add origin https://github.com/SimimolSM/GitJenkinsProject.git 
+fatal: remote origin already exists.
+
+C:\Program Files (x86)\Jenkins\workspace\GitProject\GitProject>git branch -M main 
+
+C:\Program Files (x86)\Jenkins\workspace\GitProject\GitProject>git push -u origin main 
+Terminate batch job (Y/N)? 
+
+C:\Program Files (x86)\Jenkins\workspace\GitProject\GitProject>exit 130 
+Build was aborted
+Aborted by [8mha:////4JZ00hoH0aYdaAukS8leisW/GMU2N+yguXH1+T0tP5UwAAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyOEgYu/dLi1CL94szcTABr0ZgVvwAAAA==[0mSimi S M
+Finished: ABORTED

@@ -1,0 +1,27 @@
+Started by user [8mha:////4JZ00hoH0aYdaAukS8leisW/GMU2N+yguXH1+T0tP5UwAAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyOEgYu/dLi1CL94szcTABr0ZgVvwAAAA==[0mSimi S M
+Running as SYSTEM
+Building in workspace C:\Program Files (x86)\Jenkins\workspace\JavaProject
+[JavaProject] $ cmd /c call C:\Windows\TEMP\jenkins9112635454246065790.bat
+
+C:\Program Files (x86)\Jenkins\workspace\JavaProject>cd C:\Users\ustjavab204 
+
+C:\Users\ustjavab204>javac -d . LargestNumber.java 
+
+C:\Users\ustjavab204>java com.ust.LargestNumber 
+First number :1
+Second number :5
+Third number :12
+Greatest number is 12
+
+C:\Users\ustjavab204>javac RhombusStar.java 
+
+C:\Users\ustjavab204>java RhombusStar 
+*****
+ *****
+  *****
+   *****
+    *****
+     *****
+
+C:\Users\ustjavab204>exit 0 
+Finished: SUCCESS

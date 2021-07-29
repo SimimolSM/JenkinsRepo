@@ -1,0 +1,19 @@
+Started by user [8mha:////4JZ00hoH0aYdaAukS8leisW/GMU2N+yguXH1+T0tP5UwAAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyOEgYu/dLi1CL94szcTABr0ZgVvwAAAA==[0mSimi S M
+Running as SYSTEM
+BuildingUnable to auto-install JDK until the license is accepted.
+ in workspace C:\Users\ustjavab204\eclipse-workspace-java_developer\Week2Assignments\src\patterns
+Unable to auto-install JDK until the license is accepted.
+[patterns] $ cmd /c call C:\Windows\TEMP\jenkins6018504180230712199.bat
+
+C:\Users\ustjavab204\eclipse-workspace-java_developer\Week2Assignments\src\patterns>javac -d . PyramidStarPattern.java 
+
+C:\Users\ustjavab204\eclipse-workspace-java_developer\Week2Assignments\src\patterns>java patterns.PyramidStarPattern 
+              
+            * 
+          * * * 
+        * * * * * 
+      * * * * * * * 
+    * * * * * * * * * 
+
+C:\Users\ustjavab204\eclipse-workspace-java_developer\Week2Assignments\src\patterns>exit 0 
+Finished: SUCCESS

@@ -1,0 +1,26 @@
+Started by upstream project "[8mha:////4EoTZSerd4oYNNa6TSWOhnYGI16YyRlrjL9OcOoL6lMvAAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyOEgY+/az8JP2QjMyiFC8gAwDYvqrywwAAAA==[0mThirdJob" build number [8mha:////4OE4TOxaF0tgCsQGpQf5axtmUBMP0lp+ZSGlxM4rNtnAAAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBn79rPwk/ZCMzKIULyDDBAAs52cLxAAAAA==[0m4
+originally caused by:
+ Started by upstream project "[8mha:////4D3whRpcoxWWh3wQhuVW/+s72qAC0hnyXaQTtQPvc6goAAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgZ+/az8JP3gVKDqFC8gCwC5YXAJxAAAAA==[0mSecondJob" build number [8mha:////4Czb8DDISpS0iXXyznwXAkKja1wkMfpikHqVN86iLmXuAAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBgH9rPwk/eBUoOoULyDLBABrHAoNxQAAAA==[0m4
+ originally caused by:
+  Started by upstream project "[8mha:////4J43PkR4Q5cxfAn2dHv8fC83vf6xBWGZ/3fHclZzeb1vAAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyOEgY+/az8JH23zKLiEi8gAwCiWFNywwAAAA==[0mFirstJob" build number [8mha:////4FdclgxwhCPtU3bjXeUkfpZ1OXWZqGJcXSWEsinDix29AAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBn79rPwkfbfMouISLyDDBADohje7xAAAAA==[0m4
+  originally caused by:
+   Started by user [8mha:////4JZ00hoH0aYdaAukS8leisW/GMU2N+yguXH1+T0tP5UwAAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyOEgYu/dLi1CL94szcTABr0ZgVvwAAAA==[0mSimi S M
+Running as SYSTEM
+Building in workspace C:\Program Files (x86)\Jenkins\workspace\FourthJob
+Unable to auto-install JDK until the license is accepted.
+[FourthJob] $ cmd /c call C:\Windows\TEMP\jenkins797574212476749735.bat
+
+C:\Program Files (x86)\Jenkins\workspace\FourthJob>d:  
+
+D:\>javac -d . InvPyramidStar.java 
+
+D:\>java com.ust.InvPyramidStar 
+  * * * * * * * * * * * 
+    * * * * * * * * * 
+      * * * * * * * 
+        * * * * * 
+          * * * 
+            * 
+
+D:\>exit 0 
+Finished: SUCCESS

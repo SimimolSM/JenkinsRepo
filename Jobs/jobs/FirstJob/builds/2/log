@@ -1,0 +1,20 @@
+Started by user [8mha:////4JZ00hoH0aYdaAukS8leisW/GMU2N+yguXH1+T0tP5UwAAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyOEgYu/dLi1CL94szcTABr0ZgVvwAAAA==[0mSimi S M
+Running as SYSTEM
+Building in workspace C:\Program Files (x86)\Jenkins\workspace\FirstJob
+Unable to auto-install JDK until the license is accepted.
+[FirstJob] $ cmd /c call C:\Windows\TEMP\jenkins7294323986491347023.bat
+
+C:\Program Files (x86)\Jenkins\workspace\FirstJob>d:
+
+D:\>javac -d . PrintingSPattern.java 
+
+D:\>java com.ust.PrintingSPattern 
+*****
+*    
+*****
+    *
+*****
+
+D:\>exit 0 
+Triggering a new build of [8mha:////4D3whRpcoxWWh3wQhuVW/+s72qAC0hnyXaQTtQPvc6goAAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgZ+/az8JP3gVKDqFC8gCwC5YXAJxAAAAA==[0mSecondJob
+Finished: SUCCESS

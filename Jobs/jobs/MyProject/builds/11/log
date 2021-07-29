@@ -1,0 +1,36 @@
+Started by user [8mha:////4JZ00hoH0aYdaAukS8leisW/GMU2N+yguXH1+T0tP5UwAAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyOEgYu/dLi1CL94szcTABr0ZgVvwAAAA==[0mSimi S M
+Running as SYSTEM
+Building in workspace C:\Program Files (x86)\Jenkins\workspace\MyProject
+[MyProject] $ cmd /c call C:\Windows\TEMP\jenkins4594379856966759990.bat
+
+C:\Program Files (x86)\Jenkins\workspace\MyProject>ipconfig
+
+Windows IP Configuration
+
+
+Ethernet adapter Ethernet0:
+
+   Connection-specific DNS Suffix  . : iiht.tech
+   Link-local IPv6 Address . . . . . : fe80::79c5:351:6cbb:dfad%2
+   IPv4 Address. . . . . . . . . . . : 172.18.12.230
+   Subnet Mask . . . . . . . . . . . : 255.255.0.0
+   Default Gateway . . . . . . . . . : 172.18.0.1
+
+Ethernet adapter VMware Network Adapter VMnet1:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::4899:abf3:ff0b:d340%3
+   IPv4 Address. . . . . . . . . . . : 192.168.88.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+
+Ethernet adapter VMware Network Adapter VMnet8:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::2496:fb6d:da75:7a7%4
+   IPv4 Address. . . . . . . . . . . : 192.168.49.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+
+C:\Program Files (x86)\Jenkins\workspace\MyProject>exit 0 
+Finished: SUCCESS

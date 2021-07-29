@@ -1,0 +1,16 @@
+Started by upstream project "[8mha:////4EoTZSerd4oYNNa6TSWOhnYGI16YyRlrjL9OcOoL6lMvAAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyOEgY+/az8JP2QjMyiFC8gAwDYvqrywwAAAA==[0mThirdJob" build number [8mha:////4HFwnf+IaKbLSPVUBvDZCCY3zyhwgnEk9JFt3/E3kNA5AAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBn79rPwk/ZCMzKIULyDDCAAZQgTixAAAAA==[0m2
+originally caused by:
+ Started by upstream project "[8mha:////4D3whRpcoxWWh3wQhuVW/+s72qAC0hnyXaQTtQPvc6goAAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgZ+/az8JP3gVKDqFC8gCwC5YXAJxAAAAA==[0mSecondJob" build number [8mha:////4Et/TPz+rahY0NPD+PoR0mj3SGiJDU8gy+1CNX/iPE/yAAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBgH9rPwk/eBUoOoULyDLCABeuWnkxQAAAA==[0m2
+ originally caused by:
+  Started by upstream project "[8mha:////4J43PkR4Q5cxfAn2dHv8fC83vf6xBWGZ/3fHclZzeb1vAAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyOEgY+/az8JH23zKLiEi8gAwCiWFNywwAAAA==[0mFirstJob" build number [8mha:////4JxX8PUxGh9G/TZjhawvwmlAMxkXu7rKLlWSBY+Oz2VuAAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBn79rPwkfbfMouISLyDDCADdI1RSxAAAAA==[0m2
+  originally caused by:
+   Started by user [8mha:////4JZ00hoH0aYdaAukS8leisW/GMU2N+yguXH1+T0tP5UwAAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyOEgYu/dLi1CL94szcTABr0ZgVvwAAAA==[0mSimi S M
+Running as SYSTEM
+Building in workspace C:\Program Files (x86)\Jenkins\workspace\FourthJob
+[FourthJob] $ cmd /c call C:\Windows\TEMP\jenkins400281053955436282.bat
+
+C:\Program Files (x86)\Jenkins\workspace\FourthJob>echo "fourth job is running after third job" 
+"fourth job is running after third job"
+
+C:\Program Files (x86)\Jenkins\workspace\FourthJob>exit 0 
+Finished: SUCCESS

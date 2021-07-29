@@ -1,0 +1,26 @@
+Started by user [8mha:////4JZ00hoH0aYdaAukS8leisW/GMU2N+yguXH1+T0tP5UwAAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyOEgYu/dLi1CL94szcTABr0ZgVvwAAAA==[0mSimi S M
+Running as SYSTEM
+Building in workspace C:\Program Files (x86)\Jenkins\workspace\JavaProject1
+No credentials specified
+ > git.exe rev-parse --is-inside-work-tree # timeout=10
+Fetching changes from the remote Git repository
+ > git.exe config remote.origin.url https://github.com/SimimolSM/JenkinsDemo1 # timeout=10
+Fetching upstream changes from https://github.com/SimimolSM/JenkinsDemo1
+ > git.exe --version # timeout=10
+ > git.exe fetch --tags --force --progress -- https://github.com/SimimolSM/JenkinsDemo1 +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git.exe rev-parse "refs/remotes/origin/master^{commit}" # timeout=10
+ > git.exe rev-parse "refs/remotes/origin/origin/master^{commit}" # timeout=10
+Checking out Revision 0e13e683154744afb4064336a8d3bf9e1279bf90 (refs/remotes/origin/master)
+ > git.exe config core.sparsecheckout # timeout=10
+ > git.exe checkout -f 0e13e683154744afb4064336a8d3bf9e1279bf90 # timeout=10
+Commit message: "Update Demo.java"
+ > git.exe rev-list --no-walk ff0b86cbcc8bddbcf46ba08e2e8eaf4a63a1407b # timeout=10
+[JavaProject1] $ cmd /c call C:\Windows\TEMP\jenkins1750579653681306443.bat
+
+C:\Program Files (x86)\Jenkins\workspace\JavaProject1>JAVAC Demo.java 
+
+C:\Program Files (x86)\Jenkins\workspace\JavaProject1>JAVA Demo 
+Welcome to Jenkins!!!
+
+C:\Program Files (x86)\Jenkins\workspace\JavaProject1>exit 0 
+Finished: SUCCESS

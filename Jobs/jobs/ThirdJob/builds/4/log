@@ -1,0 +1,30 @@
+Started by upstream project "[8mha:////4D3whRpcoxWWh3wQhuVW/+s72qAC0hnyXaQTtQPvc6goAAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgZ+/az8JP3gVKDqFC8gCwC5YXAJxAAAAA==[0mSecondJob" build number [8mha:////4Czb8DDISpS0iXXyznwXAkKja1wkMfpikHqVN86iLmXuAAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBgH9rPwk/eBUoOoULyDLBABrHAoNxQAAAA==[0m4
+originally caused by:
+ Started by upstream project "[8mha:////4J43PkR4Q5cxfAn2dHv8fC83vf6xBWGZ/3fHclZzeb1vAAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyOEgY+/az8JH23zKLiEi8gAwCiWFNywwAAAA==[0mFirstJob" build number [8mha:////4FdclgxwhCPtU3bjXeUkfpZ1OXWZqGJcXSWEsinDix29AAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBn79rPwkfbfMouISLyDDBADohje7xAAAAA==[0m4
+ originally caused by:
+  Started by user [8mha:////4JZ00hoH0aYdaAukS8leisW/GMU2N+yguXH1+T0tP5UwAAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyOEgYu/dLi1CL94szcTABr0ZgVvwAAAA==[0mSimi S M
+Running as SYSTEM
+Building in workspace C:\Program Files (x86)\Jenkins\workspace\ThirdJob
+Unable to auto-install JDK until the license is accepted.
+[ThirdJob] $ cmd /c call C:\Windows\TEMP\jenkins1765783157006992370.bat
+
+C:\Program Files (x86)\Jenkins\workspace\ThirdJob>d:
+
+D:\>javac -d . HalfDiamondStar.java 
+
+D:\>java com.ust.HalfDiamondStar 
+            * 
+          * * 
+        * * * 
+      * * * * 
+    * * * * * 
+  * * * * * * 
+    * * * * * 
+      * * * * 
+        * * * 
+          * * 
+            * 
+
+D:\>exit 0 
+Triggering a new build of [8mha:////4EUvoEwMgRZqYxl2Luw2OcpzgW/FPb5vvqJiKn/swbwqAAAAmh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgZ+/az8JH23/NKikgwvIAsA1ai5hsQAAAA=[0mFourthJob
+Finished: SUCCESS

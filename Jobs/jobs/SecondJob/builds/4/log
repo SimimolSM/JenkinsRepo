@@ -1,0 +1,32 @@
+Started by upstream project "[8mha:////4J43PkR4Q5cxfAn2dHv8fC83vf6xBWGZ/3fHclZzeb1vAAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyOEgY+/az8JH23zKLiEi8gAwCiWFNywwAAAA==[0mFirstJob" build number [8mha:////4FdclgxwhCPtU3bjXeUkfpZ1OXWZqGJcXSWEsinDix29AAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBn79rPwkfbfMouISLyDDBADohje7xAAAAA==[0m4
+originally caused by:
+ Started by user [8mha:////4JZ00hoH0aYdaAukS8leisW/GMU2N+yguXH1+T0tP5UwAAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyOEgYu/dLi1CL94szcTABr0ZgVvwAAAA==[0mSimi S M
+Running as SYSTEM
+Building in workspace C:\Program Files (x86)\Jenkins\workspace\SecondJob
+Unable to auto-install JDK until the license is accepted.
+[SecondJob] $ cmd /c call C:\Windows\TEMP\jenkins1702776669851808160.bat
+
+C:\Program Files (x86)\Jenkins\workspace\SecondJob>d:
+
+D:\>javac -d . XStarPattern.java 
+
+D:\>java com.ust.XStarPattern 
+*              * 
+ *            *  
+  *          *   
+   *        *    
+    *      *     
+     *    *      
+      *  *       
+       *        
+      *  *       
+     *    *      
+    *      *     
+   *        *    
+  *          *   
+ *            *  
+*              * 
+
+D:\>exit 0 
+Triggering a new build of [8mha:////4EoTZSerd4oYNNa6TSWOhnYGI16YyRlrjL9OcOoL6lMvAAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyOEgY+/az8JP2QjMyiFC8gAwDYvqrywwAAAA==[0mThirdJob
+Finished: SUCCESS

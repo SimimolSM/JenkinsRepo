@@ -1,0 +1,23 @@
+Started by user [8mha:////4JZ00hoH0aYdaAukS8leisW/GMU2N+yguXH1+T0tP5UwAAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyOEgYu/dLi1CL94szcTABr0ZgVvwAAAA==[0mSimi S M
+Running as SYSTEM
+Building in workspace C:\Program Files (x86)\Jenkins\workspace\GitProject
+No credentials specified
+Cloning the remote Git repository
+Cloning repository https://github.com/SimimolSM/BankingProject
+ > git.exe init C:\Program Files (x86)\Jenkins\workspace\GitProject # timeout=10
+Fetching upstream changes from https://github.com/SimimolSM/BankingProject
+ > git.exe --version # timeout=10
+ > git.exe fetch --tags --force --progress -- https://github.com/SimimolSM/BankingProject +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git.exe config remote.origin.url https://github.com/SimimolSM/BankingProject # timeout=10
+ > git.exe config --add remote.origin.fetch +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git.exe config remote.origin.url https://github.com/SimimolSM/BankingProject # timeout=10
+Fetching upstream changes from https://github.com/SimimolSM/BankingProject
+ > git.exe fetch --tags --force --progress -- https://github.com/SimimolSM/BankingProject +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git.exe rev-parse "refs/remotes/origin/master^{commit}" # timeout=10
+ > git.exe rev-parse "refs/remotes/origin/origin/master^{commit}" # timeout=10
+Checking out Revision d5b206dde6a2d0760bd0ead73cffb6a1cc6bbc31 (refs/remotes/origin/master)
+ > git.exe config core.sparsecheckout # timeout=10
+ > git.exe checkout -f d5b206dde6a2d0760bd0ead73cffb6a1cc6bbc31 # timeout=10
+Commit message: "Create README.md"
+First time build. Skipping changelog.
+Finished: SUCCESS

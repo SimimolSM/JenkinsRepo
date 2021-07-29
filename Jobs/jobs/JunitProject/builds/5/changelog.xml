@@ -1,0 +1,11 @@
+commit fdb992d44721146d7e246f3af7a42100f56f30ce
+tree 76d03022a876ca6d274fc9e2bc0897c3e495c94e
+parent dfc517f2350ef761511cec644ec830a7891585a1
+author SimimolSM <55319356+SimimolSM@users.noreply.github.com> 2021-07-27 11:48:05 +0530
+committer GitHub <noreply@github.com> 2021-07-27 11:48:05 +0530
+
+    Update CalculatorTest.java
+    
+    passed test case
+
+:100644 100644 87d9ece4140a243fd634629bfb743cf28368919c 2f8b9e679b5008e79cce5ca567de9abca484080f M	src/test/java/com/deepak/examples/jenkinsjunit/CalculatorTest.java

@@ -1,0 +1,92 @@
+Started by user [8mha:////4JZ00hoH0aYdaAukS8leisW/GMU2N+yguXH1+T0tP5UwAAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyOEgYu/dLi1CL94szcTABr0ZgVvwAAAA==[0mSimi S M
+Running as SYSTEM
+Building in workspace C:\Program Files (x86)\Jenkins\workspace\JunitProject
+[WS-CLEANUP] Deleting project workspace...
+[WS-CLEANUP] Deferred wipeout is used...
+[WS-CLEANUP] Done
+No credentials specified
+Cloning the remote Git repository
+Cloning repository https://github.com/SimimolSM/jenkins-junit-maven-example.git
+ > git.exe init C:\Program Files (x86)\Jenkins\workspace\JunitProject # timeout=10
+Fetching upstream changes from https://github.com/SimimolSM/jenkins-junit-maven-example.git
+ > git.exe --version # timeout=10
+ > git.exe fetch --tags --force --progress -- https://github.com/SimimolSM/jenkins-junit-maven-example.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git.exe config remote.origin.url https://github.com/SimimolSM/jenkins-junit-maven-example.git # timeout=10
+ > git.exe config --add remote.origin.fetch +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git.exe config remote.origin.url https://github.com/SimimolSM/jenkins-junit-maven-example.git # timeout=10
+Fetching upstream changes from https://github.com/SimimolSM/jenkins-junit-maven-example.git
+ > git.exe fetch --tags --force --progress -- https://github.com/SimimolSM/jenkins-junit-maven-example.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git.exe rev-parse "refs/remotes/origin/master^{commit}" # timeout=10
+ > git.exe rev-parse "refs/remotes/origin/origin/master^{commit}" # timeout=10
+Checking out Revision fdb992d44721146d7e246f3af7a42100f56f30ce (refs/remotes/origin/master)
+ > git.exe config core.sparsecheckout # timeout=10
+ > git.exe checkout -f fdb992d44721146d7e246f3af7a42100f56f30ce # timeout=10
+Commit message: "Update CalculatorTest.java"
+ > git.exe rev-list --no-walk dfc517f2350ef761511cec644ec830a7891585a1 # timeout=10
+[JunitProject] $ cmd.exe /C "mvn clean compile test && exit %%ERRORLEVEL%%"
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] ----------------< com.mycompany.app:junitmavenexample >-----------------
+[INFO] Building junitmavenexample 1.0-SNAPSHOT
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[8mha:////4BYf37zEEXtc+CyQ06MOPPN0M55D6grH6k46tqMl5hNMAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75Zek2mxOX+vh68DGxMBQUcQgBdWQnJ9XnJ+TqucMoUEKGSCAEaSwAAAn9LoiYAAAAA==[0m[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ junitmavenexample ---
+[INFO] Deleting C:\Program Files (x86)\Jenkins\workspace\JunitProject\target
+[INFO] 
+[8mha:////4BYf37zEEXtc+CyQ06MOPPN0M55D6grH6k46tqMl5hNMAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75Zek2mxOX+vh68DGxMBQUcQgBdWQnJ9XnJ+TqucMoUEKGSCAEaSwAAAn9LoiYAAAAA==[0m[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ junitmavenexample ---
+[8mha:////4JivB7frmDpCmNXR9jocxvjG3Ppg5CpzS5udpngZY/ZAAAAAYh+LCAAAAAAAAP9b85aBtbiIQSWjNKU4P0+vJLE4u1gvPjexLDVPzxdEhicW5WXmpfvll6SeOJwgmrt9CSsTA0NFEYMUVEtyfl5xfk6qnjOEBilkgABGkMICAEQzmI1iAAAA[0m[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\Program Files (x86)\Jenkins\workspace\JunitProject\src\main\resources
+[INFO] 
+[8mha:////4BYf37zEEXtc+CyQ06MOPPN0M55D6grH6k46tqMl5hNMAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75Zek2mxOX+vh68DGxMBQUcQgBdWQnJ9XnJ+TqucMoUEKGSCAEaSwAAAn9LoiYAAAAA==[0m[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ junitmavenexample ---
+[INFO] Changes detected - recompiling the module!
+[8mha:////4JivB7frmDpCmNXR9jocxvjG3Ppg5CpzS5udpngZY/ZAAAAAYh+LCAAAAAAAAP9b85aBtbiIQSWjNKU4P0+vJLE4u1gvPjexLDVPzxdEhicW5WXmpfvll6SeOJwgmrt9CSsTA0NFEYMUVEtyfl5xfk6qnjOEBilkgABGkMICAEQzmI1iAAAA[0m[WARNING] File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+[INFO] Compiling 2 source files to C:\Program Files (x86)\Jenkins\workspace\JunitProject\target\classes
+[INFO] 
+[8mha:////4BYf37zEEXtc+CyQ06MOPPN0M55D6grH6k46tqMl5hNMAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75Zek2mxOX+vh68DGxMBQUcQgBdWQnJ9XnJ+TqucMoUEKGSCAEaSwAAAn9LoiYAAAAA==[0m[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ junitmavenexample ---
+[8mha:////4JivB7frmDpCmNXR9jocxvjG3Ppg5CpzS5udpngZY/ZAAAAAYh+LCAAAAAAAAP9b85aBtbiIQSWjNKU4P0+vJLE4u1gvPjexLDVPzxdEhicW5WXmpfvll6SeOJwgmrt9CSsTA0NFEYMUVEtyfl5xfk6qnjOEBilkgABGkMICAEQzmI1iAAAA[0m[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\Program Files (x86)\Jenkins\workspace\JunitProject\src\main\resources
+[INFO] 
+[8mha:////4BYf37zEEXtc+CyQ06MOPPN0M55D6grH6k46tqMl5hNMAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75Zek2mxOX+vh68DGxMBQUcQgBdWQnJ9XnJ+TqucMoUEKGSCAEaSwAAAn9LoiYAAAAA==[0m[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ junitmavenexample ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[8mha:////4BYf37zEEXtc+CyQ06MOPPN0M55D6grH6k46tqMl5hNMAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75Zek2mxOX+vh68DGxMBQUcQgBdWQnJ9XnJ+TqucMoUEKGSCAEaSwAAAn9LoiYAAAAA==[0m[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ junitmavenexample ---
+[8mha:////4JivB7frmDpCmNXR9jocxvjG3Ppg5CpzS5udpngZY/ZAAAAAYh+LCAAAAAAAAP9b85aBtbiIQSWjNKU4P0+vJLE4u1gvPjexLDVPzxdEhicW5WXmpfvll6SeOJwgmrt9CSsTA0NFEYMUVEtyfl5xfk6qnjOEBilkgABGkMICAEQzmI1iAAAA[0m[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\Program Files (x86)\Jenkins\workspace\JunitProject\src\test\resources
+[INFO] 
+[8mha:////4BYf37zEEXtc+CyQ06MOPPN0M55D6grH6k46tqMl5hNMAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75Zek2mxOX+vh68DGxMBQUcQgBdWQnJ9XnJ+TqucMoUEKGSCAEaSwAAAn9LoiYAAAAA==[0m[INFO] --- maven-compiler-plugin:3.1:testCompile (default-testCompile) @ junitmavenexample ---
+[INFO] Changes detected - recompiling the module!
+[8mha:////4JivB7frmDpCmNXR9jocxvjG3Ppg5CpzS5udpngZY/ZAAAAAYh+LCAAAAAAAAP9b85aBtbiIQSWjNKU4P0+vJLE4u1gvPjexLDVPzxdEhicW5WXmpfvll6SeOJwgmrt9CSsTA0NFEYMUVEtyfl5xfk6qnjOEBilkgABGkMICAEQzmI1iAAAA[0m[WARNING] File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+[INFO] Compiling 1 source file to C:\Program Files (x86)\Jenkins\workspace\JunitProject\target\test-classes
+[INFO] 
+[8mha:////4BYf37zEEXtc+CyQ06MOPPN0M55D6grH6k46tqMl5hNMAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75Zek2mxOX+vh68DGxMBQUcQgBdWQnJ9XnJ+TqucMoUEKGSCAEaSwAAAn9LoiYAAAAA==[0m[INFO] --- maven-surefire-plugin:2.12.4:test (default-test) @ junitmavenexample ---
+[INFO] Surefire report directory: C:\Program Files (x86)\Jenkins\workspace\JunitProject\target\surefire-reports
+
+-------------------------------------------------------
+ T E S T S
+-------------------------------------------------------
+Running com.deepak.examples.jenkinsjunit.CalculatorTest
+This is executed before each Test
+This is exceuted after each Test
+This is executed before each Test
+This is exceuted after each Test
+This is executed before each Test
+This is exceuted after each Test
+This is executed before each Test
+This is exceuted after each Test
+This is executed before each Test
+This is exceuted after each Test
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.123 sec
+
+Results :
+
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0
+
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  4.470 s
+[INFO] Finished at: 2021-07-27T11:48:27+05:30
+[INFO] ------------------------------------------------------------------------
+Recording test results
+[Checks API] No suitable checks publisher found.
+Finished: SUCCESS
